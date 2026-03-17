@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router';
 import { motion } from 'motion/react';
-import logoImage from 'figma:asset/b75c9e5c2c4c798228e6af43c03a109927a042e0.png';
+import logoImage from '../../assets/b75c9e5c2c4c798228e6af43c03a109927a042e0.png';
 
 export function AnimatedIntro() {
   const navigate = useNavigate();

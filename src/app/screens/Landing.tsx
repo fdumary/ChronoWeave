@@ -1,6 +1,6 @@
 import { useNavigate } from 'react-router';
 import { motion } from 'motion/react';
-import imgChatGptImageMar82026094521Pm1 from "figma:asset/e5a941d94a63350cd9819dd699b6bd17bbd0c54e.png";
+import imgChatGptImageMar82026094521Pm1 from "../../assets/e5a941d94a63350cd9819dd699b6bd17bbd0c54e.png";
 import { useUser } from '../contexts/UserContext';
 
 export function Landing() {

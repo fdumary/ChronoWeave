@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Search, Bell } from 'lucide-react';
 import { useNavigate } from 'react-router';
-import avatarImage from 'figma:asset/96cc948ae24bf6cff969c8cb2351cd23b1d298bb.png';
+import avatarImage from '../../assets/96cc948ae24bf6cff969c8cb2351cd23b1d298bb.png';
 import { SearchModal } from './SearchModal';
 import { NotificationModal } from './NotificationModal';
 

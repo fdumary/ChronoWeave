@@ -1,5 +1,5 @@
 import svgPaths from "./svg-wuzx3f40kd";
-import img86621Ec8Abe5B04539B761Ab1Cdff86F1 from "figma:asset/38b853a5214f72177b300c9cac729cad86090ae7.png";
+import img86621Ec8Abe5B04539B761Ab1Cdff86F1 from "../assets/38b853a5214f72177b300c9cac729cad86090ae7.png";
 
 function UpperNav() {
   return <div className="absolute bg-[#1d3da0] h-[162px] left-0 rounded-bl-[22.335px] rounded-br-[22.335px] top-[-1.49px] w-[441px]" data-name="Upper Nav" />;

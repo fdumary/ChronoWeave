@@ -1,5 +1,5 @@
 import svgPaths from "./svg-j6ag0vh2k9";
-import img86621Ec8Abe5B04539B761Ab1Cdff86F1 from "figma:asset/38b853a5214f72177b300c9cac729cad86090ae7.png";
+import img86621Ec8Abe5B04539B761Ab1Cdff86F1 from "../assets/38b853a5214f72177b300c9cac729cad86090ae7.png";
 
 function Button() {
   return <div className="rounded-[52603788px] shrink-0 size-[58.03px]" data-name="button" />;
