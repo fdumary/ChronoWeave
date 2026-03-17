@@ -1,0 +1,95 @@
+Figma AI Prompt - Animated Video-Style Nudge Explainer (15s Loop)
+text
+Create a **15-second looping animated video** explaining the 3 nudge features. Dark UI theme, cinematic motion graphics, iPhone mockups. Perfect for presentation deck or website hero.
+
+**VIDEO STRUCTURE** (0-15s loop):
+
+**0-3s: INTRO**  
+iPhone screen fades in → "Evening study - 15min timer starts"
+Camera zooms into phone showing simple countdown
+Voiceover/text: "Meet your nudges"
+
+text
+
+**3-7s: HAPTIC PULSE**  
+Phone bottom glows teal → ripple wave animation
+Text overlay: "Subtle Haptic Pulse"
+Timer: 12min → 10min → single pulse ● → double ●●
+Caption: "Pulses strengthen as time runs out"
+
+text
+
+**7-11s: AUDIO TEMPO**  
+Phone speaker pulses purple waveform
+Text overlay: "Audio Tempo Tone"
+Timer: 5min → 3min → slow chimes → fast chimes
+Caption: "Chimes speed up with your drift"
+
+text
+
+**11-14s: LIGHT CUE**  
+Screen edges glow pink (top→right→bottom→full tint)
+Text overlay: "Ambient Light Cue"
+Timer: 1min → 30sec → corner glows → full pulse
+Caption: "Screen glows guide attention"
+
+text
+
+**14-15s: COMBO + CTA**  
+All 3 effects fire together (teal+purple+pink)
+Text: "Perfect time awareness"
+Final frame: "Enable nudges now →"
+
+text
+
+**ANIMATION STYLE**:
+Motion: Cinematic camera moves (zoom, pan, orbit around phone)
+Transitions: Smooth wipes between features (teal→purple→pink gradients)
+Phone: iPhone 14 Pro Space Black, realistic reflections
+Background: Dark gradient with floating time particles (2% opacity)
+Sound design: Gentle whooshes, pulse SFX, subtle ambient track
+
+VISUAL TREATMENT:
+
+text
+- Glassmorphism overlays for feature names
+- Timer digits glow brighter as urgency increases  
+- Haptic ripples = realistic Taptic Engine physics
+- Audio waveforms = match iPhone speaker grille
+- Light effects = realistic screen edge bleed
+
+**TECHNICAL**:
+1080x1920 (vertical mobile-first)
+
+30fps smooth motion
+
+15-second perfect loop (no jump cuts)
+
+Export MP4 + GIF versions
+
+Colors: Teal(#14B8A6), Purple(#8B5CF6), Pink(#EC4899)
+
+Style References:
+
+Apple Watch Face complication animations
+
+Google Clock alarm transition effects
+
+Philips Hue light scene transitions
+
+Calm app breathing circle animations
+
+Result: 15s video shows exactly how nudges feel in real-time. Perfect presentation hero.
+​
+
+text
+
+---
+
+**Use Cases**:
+- **Slide 3**: Video autoplay → "Watch nudges in action"
+- **Website**: Hero section looping video  
+- **Demo**: Live presentation impact moment
+- **App Store**: Compelling feature showcase
+
+**Judges will love**: Cinematic polish + clear feature demo + perfect timing = **demo day winner**.

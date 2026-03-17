@@ -1,0 +1,86 @@
+Update the behavior and data logic of the ChronoWeave app without changing any UI, layout, spacing, colors, cards, typography, icons, or screen structure.
+
+Do NOT redesign anything.
+
+Only change how the Dashboard and Drift Map screens behave so that they represent different types of information.
+
+1. Dashboard Screen (Today's Rhythm)
+
+The Dashboard should represent a daily forecast of the user's time perception for the current day.
+
+The "Time Stability Forecast" section should show predicted time perception behavior for today based on:
+- the user's calibration results
+- the user's drift history
+- the user's time perception profile
+
+This section should simulate a daily prediction model.
+
+Example forecast for today:
+Morning → Stable  
+Midday → Moderate  
+Afternoon → Fast Drift  
+Evening → Moderate
+
+These values should represent predicted behavior for today, not historical averages.
+
+The dashboard forecast should change when:
+- a calibration test is completed
+- a new time profile is generated
+- simulated daily conditions change
+
+The dashboard therefore acts as a **daily forecast of time perception stability**.
+
+Do not change the layout or design of the forecast cards.
+
+Only update the logic so the values represent today's prediction.
+
+2. Drift Map Screen
+
+The Drift Map should represent historical time perception patterns, not today's forecast.
+
+It should summarize how the user's time perception behaved across past days.
+
+Examples of what Drift Map should represent:
+
+Morning → 92% stable across past sessions  
+Afternoon → 74% stable across past sessions  
+Evening → 61% stable across past sessions  
+
+This screen should simulate historical pattern analysis.
+
+The Drift Map should update only when:
+- new calibration sessions are completed
+- additional time perception data is recorded
+
+It should represent long-term trends rather than today's prediction.
+
+3. Relationship Between the Screens
+
+The system should simulate the following flow:
+
+Calibration tests generate a time perception profile.
+
+The Drift Map uses past calibration results to build a historical pattern.
+
+The Dashboard uses that historical pattern plus calibration results to generate a daily forecast.
+
+This means:
+
+Drift Map → historical analysis  
+Dashboard → daily prediction
+
+4. Keep Everything Else the Same
+
+Do not change:
+- UI
+- layout
+- spacing
+- cards
+- charts
+- colors
+- typography
+- icons
+- navigation
+- screen structure
+
+Only adjust the data meaning and behavior so the two screens represent different layers of insight.
